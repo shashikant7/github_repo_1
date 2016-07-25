@@ -117,7 +117,7 @@ def trigger_process():
 
 
 no_of_current_running = 0
-child_process = []  # list to store the process object
+child_process = []  #list to store the process object
 
 commit_list = ["Dummy_repo_name", "Dummy_commit_id"]  # Default commit_id which will be on first postion.
 logging.info("initials commit_list : " + str(commit_list))
