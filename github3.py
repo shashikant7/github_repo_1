@@ -1,4 +1,4 @@
-#import random
+#import
 import random
 import commands
 import time
