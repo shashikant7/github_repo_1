@@ -22,7 +22,7 @@ def trigger_driver(new_commit_id, git_name):
     ran = random.randrange(60, 120)
     time.sleep(ran)
 
-    # Read in the file
+    # #Read in the file
     """
     tempFile =  open('trigger_driver_monitor.log', 'r+')
 
